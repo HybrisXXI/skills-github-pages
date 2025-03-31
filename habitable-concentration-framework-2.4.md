@@ -227,4 +227,3 @@ Future work should focus on:
 
 This framework may lead to the identification of habitable niches previously overlooked by conventional approaches, particularly in systems where complex interactions between multiple bodies create unique concentration opportunities beyond the traditional habitable zone.
 
-by Peer Preisler
